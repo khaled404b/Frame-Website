@@ -1,0 +1,16 @@
+<br>
+<br>
+<br>
+
+<ul style="list-style: none; padding: 0; margin: 0; display: flex; justify-content: space-between;">
+  <li style="text-decoration: none; transition: color 0.4s black;">WhatsApp & Calls</li>
+  <li style="text-decoration: none; transition: color 0.4s black;">Email: info@frame.com.kw</li>
+</ul>
+
+<ul style="list-style: none; padding: 0; margin: 0; display: flex; justify-content: space-between;">
+  <li style="text-decoration: none; transition: color 0.4s black;">+965 2245 1010</li>
+</ul>
+
+<ul style="list-style: none; padding: 0; margin: 0; display: flex; justify-content: space-between;">
+  <li style="text-decoration: none; transition: color 0.4s black;">+965 9990 8939</li>
+</ul>
